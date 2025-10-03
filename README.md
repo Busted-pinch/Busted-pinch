@@ -79,7 +79,7 @@
 
 ## 📈 Activity Graph  
 
-![Busted!'s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Busted-pinch&theme=react-dark)
+![Busted-pinch's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Busted-pinch&theme=react-dark)
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
