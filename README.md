@@ -1,7 +1,6 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=Hello%2C+I'm+Prathamesh+;Computer+Engineering+Student;Exploring+AI+;ML+%7C+DevOps;Japanese+Language+Learner+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
-/>
 </p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
@@ -57,6 +56,15 @@
 
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+## 🏅 Certifications & Badges
+
+<p align="center">
+  <a href="https://www.credly.com/badges/8aefa00b-7f28-4aeb-9db8-c0f9db6663fa/public_url)" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6a55d70c-9f24-4243-8e42-f823a132f474" width="120" height="120" alt="日本語"/>
+  </a>
+</p>
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 ## 📊 GitHub Stats
 
@@ -71,11 +79,23 @@
 
 ## 📈 Activity Graph  
 
-![Prath's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Busted-pinch&theme=react-dark)
+![Busted!'s Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Busted-pinch&theme=react-dark)
+
+![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
+
+## 📬 Connect with Me
+
+ <p align="left">
+  <a href="www.linkedin.com/in/prathamesh-mete">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
+  </a>
+  <a href="mailto:metepratham04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank">
+  </a>
+</p>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
 <p align="center"><i>Thanks for visiting my GitHub!</i> 🚀</p>
-
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
