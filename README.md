@@ -86,10 +86,7 @@
 ## 📬 Connect with Me
 
  <p align="left">
-  <a href="www.linkedin.com/in/
-prathamesh-mete
-Vanity URL name
-">
+  <a href="https://www.linkedin.com/in/prathamesh-mete">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank">
   </a>
   <a href="mailto:metepratham04@gmail.com">
