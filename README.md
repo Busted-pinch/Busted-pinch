@@ -1,6 +1,7 @@
 <!-- Animated Typing Header -->
-align="center"
+<div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=22&pause=1000&color=2F80ED&center=true&vCenter=true&width=800&lines=こんにちは!%2C+I'm+Prathamesh+;Computer+Engineering+Student;Exploring+AI+;ML+%7C+DevOps;日本語+の+学生+です+%F0%9F%87%AF%F0%9F%87%B5;Welcome+to+my+GitHub+Profile)
+</div>
 
 ![redline](https://github.com/user-attachments/assets/cc6c89b3-6661-4cd6-b236-27a1ad42b331)
 
